@@ -1,5 +1,5 @@
-"# pathfinder" 
-# PathFinder
-Path finder is a visualization tool used to visualize four searching algorithm
+"# pathfinder and sorting" 
+# PathFinder and Sorting Visualizer
+
 # live version
-https://muddassarpathfinder.netlify.app
+tamimjdalgovisualization.netlify.app
