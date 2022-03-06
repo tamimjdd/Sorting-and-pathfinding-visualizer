@@ -2,4 +2,4 @@
 # PathFinder and Sorting Visualizer
 
 # live version
-tamimjdalgovisualization.netlify.app
+https://tamimjdalgovisualization.netlify.app/
